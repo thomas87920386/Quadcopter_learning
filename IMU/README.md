@@ -1,1 +1,1 @@
-
+The ".ino" file is the Arduino script used to communicate with the IMU, MPU6050. In this case, the total practice will be divided into two sections, one is to read and show the measurement value in the Arduino serial monitor, and the second is to calibrate the IMU measurement.
